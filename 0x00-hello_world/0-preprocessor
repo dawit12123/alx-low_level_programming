@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -E $CFILE.c -o c.sh -DHELLO
+gcc -E main.c -o 0-main.c -DHELLO
