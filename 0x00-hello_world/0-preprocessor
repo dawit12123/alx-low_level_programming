@@ -1,3 +1,2 @@
-#!/bin/bash
-gcc -c -save-temps main.c 
+#!/bin/bash 
 export CFILE=main.c
