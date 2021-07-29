@@ -2,9 +2,7 @@
 
 /** 
 * main : Entry point
-*
 * prints using puts function 
-*
 * Return: 0
  */
 int main(void)
